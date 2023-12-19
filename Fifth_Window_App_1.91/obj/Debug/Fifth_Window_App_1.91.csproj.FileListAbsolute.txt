@@ -1,0 +1,10 @@
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\bin\Debug\Fifth_Window_App_1.91.exe.config
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\bin\Debug\Fifth_Window_App_1.91.exe
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\bin\Debug\Fifth_Window_App_1.91.pdb
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1.91.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1._91.Form1.resources
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1._91.Properties.Resources.resources
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1.91.csproj.GenerateResource.cache
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1.91.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1.91.exe
+C:\Users\Xopero\Documents\Praktyki\Fifth_Window_App_1.91\Fifth_Window_App_1.91\obj\Debug\Fifth_Window_App_1.91.pdb
